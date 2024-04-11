@@ -6,4 +6,4 @@ We create segmentation extension named "EasySegmentation" and "ImplantVideo" by 
 
 It is working from 3D Slicer v5.6.2.
 
-You can check EasySegmentation tutorial in ["EasysegmentationV562_tutorial.pdf"]
+You can check EasySegmentation tutorial in ["EasysegmentationV562_tutorial.pdf"](https://github.com/hanwool-mango/slicer_modules/raw/main/EasysegmentationV562_tutorial.pdf)
